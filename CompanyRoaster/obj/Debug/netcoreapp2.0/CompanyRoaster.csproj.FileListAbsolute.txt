@@ -1,0 +1,11 @@
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\CompanyRoaster\bin\Debug\netcoreapp2.0\CompanyRoaster.deps.json
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\CompanyRoaster\bin\Debug\netcoreapp2.0\CompanyRoaster.runtimeconfig.json
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\CompanyRoaster\bin\Debug\netcoreapp2.0\CompanyRoaster.runtimeconfig.dev.json
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\CompanyRoaster\bin\Debug\netcoreapp2.0\CompanyRoaster.dll
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\CompanyRoaster\bin\Debug\netcoreapp2.0\CompanyRoaster.pdb
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\CompanyRoaster\obj\Debug\netcoreapp2.0\CompanyRoaster.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\CompanyRoaster\obj\Debug\netcoreapp2.0\CompanyRoaster.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\CompanyRoaster\obj\Debug\netcoreapp2.0\CompanyRoaster.AssemblyInfoInputs.cache
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\CompanyRoaster\obj\Debug\netcoreapp2.0\CompanyRoaster.AssemblyInfo.cs
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\CompanyRoaster\obj\Debug\netcoreapp2.0\CompanyRoaster.dll
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\CompanyRoaster\obj\Debug\netcoreapp2.0\CompanyRoaster.pdb
