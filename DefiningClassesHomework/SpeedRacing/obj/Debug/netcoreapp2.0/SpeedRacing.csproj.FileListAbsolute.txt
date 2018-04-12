@@ -1,0 +1,11 @@
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.deps.json
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.runtimeconfig.json
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.runtimeconfig.dev.json
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.dll
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.pdb
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.AssemblyInfoInputs.cache
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.AssemblyInfo.cs
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.dll
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.pdb

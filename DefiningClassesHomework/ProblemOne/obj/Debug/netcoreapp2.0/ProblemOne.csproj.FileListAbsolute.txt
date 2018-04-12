@@ -1,0 +1,11 @@
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\ProblemOne\bin\Debug\netcoreapp2.0\ProblemOne.deps.json
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\ProblemOne\bin\Debug\netcoreapp2.0\ProblemOne.runtimeconfig.json
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\ProblemOne\bin\Debug\netcoreapp2.0\ProblemOne.runtimeconfig.dev.json
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\ProblemOne\bin\Debug\netcoreapp2.0\ProblemOne.dll
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\ProblemOne\bin\Debug\netcoreapp2.0\ProblemOne.pdb
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\ProblemOne\obj\Debug\netcoreapp2.0\ProblemOne.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\ProblemOne\obj\Debug\netcoreapp2.0\ProblemOne.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\ProblemOne\obj\Debug\netcoreapp2.0\ProblemOne.AssemblyInfoInputs.cache
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\ProblemOne\obj\Debug\netcoreapp2.0\ProblemOne.AssemblyInfo.cs
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\ProblemOne\obj\Debug\netcoreapp2.0\ProblemOne.dll
+E:\SoftUni\C# OOP Basics\DefiningClassesHomework\DefiningClassesHomework\ProblemOne\obj\Debug\netcoreapp2.0\ProblemOne.pdb
