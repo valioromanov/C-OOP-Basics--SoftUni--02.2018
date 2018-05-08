@@ -1,0 +1,11 @@
+C:\Users\vylkin\source\repos\EncapsulationLecure\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.deps.json
+C:\Users\vylkin\source\repos\EncapsulationLecure\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.runtimeconfig.json
+C:\Users\vylkin\source\repos\EncapsulationLecure\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.runtimeconfig.dev.json
+C:\Users\vylkin\source\repos\EncapsulationLecure\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.dll
+C:\Users\vylkin\source\repos\EncapsulationLecure\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.pdb
+C:\Users\vylkin\source\repos\EncapsulationLecure\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.csprojResolveAssemblyReference.cache
+C:\Users\vylkin\source\repos\EncapsulationLecure\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.csproj.CoreCompileInputs.cache
+C:\Users\vylkin\source\repos\EncapsulationLecure\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.AssemblyInfoInputs.cache
+C:\Users\vylkin\source\repos\EncapsulationLecure\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.AssemblyInfo.cs
+C:\Users\vylkin\source\repos\EncapsulationLecure\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.dll
+C:\Users\vylkin\source\repos\EncapsulationLecure\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.pdb

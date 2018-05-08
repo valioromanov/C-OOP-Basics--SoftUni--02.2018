@@ -1,0 +1,11 @@
+C:\Users\vylkin\source\repos\EncapsulationLecure\EncapsolationDemo1\bin\Debug\netcoreapp2.0\SortPeople.deps.json
+C:\Users\vylkin\source\repos\EncapsulationLecure\EncapsolationDemo1\bin\Debug\netcoreapp2.0\SortPeople.runtimeconfig.json
+C:\Users\vylkin\source\repos\EncapsulationLecure\EncapsolationDemo1\bin\Debug\netcoreapp2.0\SortPeople.runtimeconfig.dev.json
+C:\Users\vylkin\source\repos\EncapsulationLecure\EncapsolationDemo1\bin\Debug\netcoreapp2.0\SortPeople.dll
+C:\Users\vylkin\source\repos\EncapsulationLecure\EncapsolationDemo1\bin\Debug\netcoreapp2.0\SortPeople.pdb
+C:\Users\vylkin\source\repos\EncapsulationLecure\EncapsolationDemo1\obj\Debug\netcoreapp2.0\SortPeople.csprojResolveAssemblyReference.cache
+C:\Users\vylkin\source\repos\EncapsulationLecure\EncapsolationDemo1\obj\Debug\netcoreapp2.0\SortPeople.csproj.CoreCompileInputs.cache
+C:\Users\vylkin\source\repos\EncapsulationLecure\EncapsolationDemo1\obj\Debug\netcoreapp2.0\SortPeople.AssemblyInfoInputs.cache
+C:\Users\vylkin\source\repos\EncapsulationLecure\EncapsolationDemo1\obj\Debug\netcoreapp2.0\SortPeople.AssemblyInfo.cs
+C:\Users\vylkin\source\repos\EncapsulationLecure\EncapsolationDemo1\obj\Debug\netcoreapp2.0\SortPeople.dll
+C:\Users\vylkin\source\repos\EncapsulationLecure\EncapsolationDemo1\obj\Debug\netcoreapp2.0\SortPeople.pdb
